@@ -1,0 +1,9 @@
+.home{
+  background: red;
+  height: 100px;
+  width:  70%;
+  float:left;
+  /*-webkit-box-sizing: border-box;*/
+  /*-moz-box-sizing: border-box;*/
+  box-sizing: border-box;
+}
